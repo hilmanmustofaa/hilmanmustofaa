@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hilmanmustofaa
 - 👀 I’m interested in Telecomunications and Security System
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Cloud Computing and Automation
+- 💞️ I’m looking to collaborate on CI/CD 
+- 📫 How to reach me ..
 
 <!---
 hilmanmustofaa/hilmanmustofaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
