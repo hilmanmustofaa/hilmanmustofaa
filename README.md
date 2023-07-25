@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hilmanmustofaa
 - 👀 I’m interested in Telecomunications and Security System
-- 🌱 I’m currently learning Cloud Computing and Automation
+- 🌱 I’m currently working as Cloud Engineer and Automation
 - 💞️ I’m looking to collaborate on CI/CD 
 - 📫 How to reach me ..
 
